@@ -1,0 +1,7 @@
+--Substract of two numbers
+
+Print :"Enter two numbers"
+Take input NUM1 and NUM2
+
+Calculate Sub=NUM1-NUM2
+print "Sub"
