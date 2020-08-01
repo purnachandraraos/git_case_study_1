@@ -1,0 +1,14 @@
+
+--Usecase finding given number is Even or Odd
+
+Print "Enter Intiger Number : "
+
+NUM = Take Input from user 
+
+if NUM % 2 equals 0
+    print response
+        "Even Number"
+
+else
+    print response
+        "Odd Number"
